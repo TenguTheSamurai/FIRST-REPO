@@ -1,5 +1,3 @@
-# GO-CALCULATOR
-
-Calculator written in GO.
+# FIRST REPO
 <br>
 Author - Ojas Dethe
